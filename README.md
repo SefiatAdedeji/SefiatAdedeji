@@ -2,7 +2,7 @@
 - 🌱 Experienced using Excel, SQL, PowerBI, Python and Tableau
 - 🤔 I’m looking for Data Science jobs
 - 💬 Ask me about Data Science and Analytics
-- 📫 You can reach me on linkedin https://linkedin.com/in/sefiatadedeji
+- 📫 You can reach me on linkedin https://linkedin.com/in/adedejisefiat
 - 😄 Pronouns: she/her
 
  
